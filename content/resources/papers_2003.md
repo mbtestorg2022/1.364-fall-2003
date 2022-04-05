@@ -8,6 +8,11 @@ description: The term paper offers the opportunity to investigate in more depth 
   (please follow the format shown in the attached pages).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-364-advanced-geotechnical-engineering-fall-2003/236003d277ca618bb9dc401ce8b0050a_papers_2003.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f7a89954-cd18-7b4a-52cb-50121c7cec69
 resourcetype: Document
 title: papers_2003.pdf
